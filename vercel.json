@@ -1,15 +1,3 @@
 {
-  "name": "my-awesome-project",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static-build"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "name": "my-awesome-project"
 }
