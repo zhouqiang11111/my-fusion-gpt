@@ -52,7 +52,7 @@ p {
     animation: fall linear infinite;
 }
 .second-row-buttons a.button {
-    margin-bottom: 50px; /* 调整这个值以控制第二排按钮的距离 */
+    margin-top: 20px; /* 调整这个值以控制第二排按钮的距离 */
 }
 
 @keyframes fall {
