@@ -51,8 +51,8 @@ p {
     border-radius: 50%;
     animation: fall linear infinite;
 }
-.buttons-container .buttons a.button.new-button {
-    margin-bottom: 10px;
+.second-row-buttons a.button {
+    margin-bottom: 10px; /* 调整这个值以控制第二排按钮的距离 */
 }
 
 @keyframes fall {
