@@ -51,6 +51,9 @@ p {
     border-radius: 50%;
     animation: fall linear infinite;
 }
+.buttons-container .buttons a.button.new-button {
+    margin-bottom: 10px;
+}
 
 @keyframes fall {
     to {
